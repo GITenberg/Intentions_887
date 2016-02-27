@@ -1,0 +1,41 @@
+_repo: Intentions_887
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: Oscar Wilde was one of the most successful playwrights of the Victorian
+  era. He was also a notorious supporter of the decadence and aesthetic movements,
+  eventually jailed for having a young male lover. His name remains a by-word for
+  social commentary by sharp wit. Intentions is a collection of critical essays by
+  Wilde including The Critic as artist, The Decay of Lying, Pen, Pencil and Poison
+  and The Truth of Masks.
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship'
+- !lcsh 'Art critics -- Great Britain -- Biography'
+- !lcsh 'Wainewright, Thomas Griffiths, 1794-1847'
+- !lcsh 'Poisoners -- Great Britain -- Biography'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 19th century -- Drama'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'English drama'
+tableOfContents: 'The decay of lying -- Pen, pencil, and poison -- The critic as artist:
+  with some remarks upon the importance of doing nothing -- The critic as artist:
+  with some remarks upon the importance of discussing everything -- The truth of masks.'
+title: Intentions
+url: http://www.gutenberg.org/ebooks/887

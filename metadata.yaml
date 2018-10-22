@@ -1,5 +1,5 @@
 _repo: Intentions_887
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -40,6 +40,7 @@ subjects:
 - !lcsh 'Authors, English -- 19th century -- Drama'
 - !lcsh 'Authors, English -- 19th century -- Biography'
 - !lcsh 'English drama'
+- GITenberg
 tableOfContents: 'The decay of lying -- Pen, pencil, and poison -- The critic as artist:
   with some remarks upon the importance of doing nothing -- The critic as artist:
   with some remarks upon the importance of discussing everything -- The truth of masks.'
